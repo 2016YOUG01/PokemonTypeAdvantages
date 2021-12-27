@@ -1,0 +1,15 @@
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\PokemonTypeAdvantages.exe
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\PokemonTypeAdvantages.deps.json
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\PokemonTypeAdvantages.runtimeconfig.json
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\PokemonTypeAdvantages.dll
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\ref\PokemonTypeAdvantages.dll
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\bin\Debug\net6.0\PokemonTypeAdvantages.pdb
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.csproj.AssemblyReference.cache
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.AssemblyInfoInputs.cache
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.AssemblyInfo.cs
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.csproj.CoreCompileInputs.cache
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.dll
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\ref\PokemonTypeAdvantages.dll
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.pdb
+C:\Users\GJY\Documents\Codes\Console\PokemonTypeAdvantages\PokemonTypeAdvantages\obj\Debug\net6.0\PokemonTypeAdvantages.genruntimeconfig.cache
