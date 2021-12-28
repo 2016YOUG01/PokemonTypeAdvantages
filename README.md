@@ -9,7 +9,7 @@ Click this [link](https://drive.google.com/drive/folders/1-uBxfleuJBeAabxwH6LfYd
 ```bash
 "setup.exe" or "PokemonTypeAdvantages.exe"
 ```
-Running "setup.exe" will install the program on your computer and to uninstall it visit [here](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
+Running "setup.exe" will install the program on your computer. For help uninstalling visit this [link](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
 
 ## Example
 
