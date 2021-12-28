@@ -13,16 +13,16 @@ Running "setup.exe" will install the program on your computer and to uninstall i
 
 ## Example
 
-```csharp
-//Input: ice
-//Input: dragon
+```bash
+Input: ice
+Input: dragon
 
-//Output: ice > dragon
-//Output: either invalid or normal damage
+Output: ice > dragon
+Output: either invalid or normal damage
 ```
-```csharp
-//Input: ghost
-//Input: psychic
+```bash
+Input: ghost
+Input: psychic
 
 //Output: ghost > psychic
 //Output: psychic > ghost
@@ -30,7 +30,7 @@ Running "setup.exe" will install the program on your computer and to uninstall i
 
 ## Terms
 
-```csharp
+```bash
 type > type
 type < type
 One type is better than another.
