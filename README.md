@@ -1,33 +1,18 @@
 # PokemonTypeAdvantages
 
-PokemonTypeAdvantages is a program that tells you what type is better based on the types you entered.
+PokemonTypeAdvantages is a software that outputs which type is better based on your input .
 
 ## Installation
 
-Click this [link](https://drive.google.com/file/d/1Y9aQdQfyvD56ZJsatgvEA7O-R1IJhef3/view?usp=sharing) to download the framework dependant installer.
+Click this [link]() to download the self-contained installer.
 
-```bash
-cd Downloads
-start setup.exe
-```
-or
-```bash
-cd Downloads
-start PokemonTypeAdvantages.exe
-```
-IF you change your default download folder or moved the file 
-```bash
-cd [filename]
-start setup.exe
-```
-or
-```bash
-cd [filename]
-start PokemonTypeAdvantages.exe
-```
+![](https://cdn.discordapp.com/attachments/925645428639268897/925647275844337694/2021-12-29_15_10_09-general_-_Discord.png)
+![](https://cdn.discordapp.com/attachments/925645428639268897/925647276213411871/2021-12-29_15_10_25-general_-_Discord.png)
+![](https://cdn.discordapp.com/attachments/925645428639268897/925647276418924585/2021-12-29_15_10_39-general_-_Discord.png)
+![](https://cdn.discordapp.com/attachments/925645428639268897/925647276616060978/2021-12-29_15_11_11-general_-_Discord.png)
 
 
-For help uninstalling click [here](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
+Need help uninstalling? Click [here](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
 
 ## Example
 
