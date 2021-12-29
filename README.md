@@ -4,12 +4,29 @@ PokemonTypeAdvantages is a program that tells you what type is better based on t
 
 ## Installation
 
-Click this [link](https://drive.google.com/drive/folders/1-uBxfleuJBeAabxwH6LfYdJ3LahMcGr4?usp=sharing) or to download the installer and run 
+Click this [link](https://drive.google.com/file/d/1Y9aQdQfyvD56ZJsatgvEA7O-R1IJhef3/view?usp=sharing) to download the installer.
+
 
 ```bash
-"setup.exe" or "PokemonTypeAdvantages.exe"
+cd Downloads
+start setup.exe
 ```
-Running "setup.exe" will install the program on your computer. For help uninstalling visit this [link](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
+or
+```bash
+cd Downloads
+start PokemonTypeAdvantages.exe
+```
+IF you change your default download folder or moved the file 
+```bash
+cd [filename]
+start setup.exe
+```
+or
+```bash
+cd [filename]
+start PokemonTypeAdvantages.exe
+```
+For help uninstalling click [here](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
 
 ## Example
 
@@ -24,8 +41,15 @@ Output: either invalid or normal damage
 Input: ghost
 Input: psychic
 
-//Output: ghost > psychic
-//Output: psychic > ghost
+Output: ghost > psychic
+Output: psychic > ghost
+```
+```bash
+Input: normal
+Input: ghost
+
+Output: normal = ghost
+Output: ghost = normal
 ```
 
 ## Terms
@@ -47,9 +71,17 @@ type < type
 type < type
 Ineffective against both.
 
+type = type
+type (</>/=) type
+activeType deals no damage to encounterType
 
-(activeType) (</>) (encounterType)
-(encounterType) (</>) (activeType)
+type (</>/=) type
+type = type
+encounterType deals no damage to encounterType
+
+
+(activeType) (</>/=) (encounterType)
+(encounterType) (</>/=) (activeType)
 ```
 
 ## Contributing
