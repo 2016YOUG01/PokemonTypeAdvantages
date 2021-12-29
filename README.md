@@ -4,7 +4,7 @@ PokemonTypeAdvantages is a software that outputs which type is better based on y
 
 ## Installation
 
-Click this [link]() to download the self-contained installer.
+Click this [link](https://drive.google.com/file/d/1r-dgzsDHdO91IWc5Yo_8-I4yqApHwKne/view?usp=sharing) to download the self-contained installer.
 
 ![](https://cdn.discordapp.com/attachments/925645428639268897/925647275844337694/2021-12-29_15_10_09-general_-_Discord.png)
 ![](https://cdn.discordapp.com/attachments/925645428639268897/925647276213411871/2021-12-29_15_10_25-general_-_Discord.png)
