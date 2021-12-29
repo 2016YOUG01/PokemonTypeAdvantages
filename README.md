@@ -4,8 +4,7 @@ PokemonTypeAdvantages is a program that tells you what type is better based on t
 
 ## Installation
 
-Click this [link](https://drive.google.com/file/d/1Y9aQdQfyvD56ZJsatgvEA7O-R1IJhef3/view?usp=sharing) to download the installer.
-
+Click this [link](https://drive.google.com/file/d/1Y9aQdQfyvD56ZJsatgvEA7O-R1IJhef3/view?usp=sharing) to download the framework dependant installer.
 
 ```bash
 cd Downloads
@@ -26,6 +25,8 @@ or
 cd [filename]
 start PokemonTypeAdvantages.exe
 ```
+
+
 For help uninstalling click [here](https://support.microsoft.com/en-us/windows/uninstall-or-remove-apps-and-programs-in-windows-10-4b55f974-2cc6-2d2b-d092-5905080eaf98) .
 
 ## Example
