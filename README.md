@@ -38,6 +38,10 @@ Output: normal = ghost
 Output: ghost = normal
 ```
 
+![](https://cdn.discordapp.com/attachments/925648458101190667/925650118433202236/2021-12-29_15_22_09-PokemonTypeAdvantages.png)
+![](https://cdn.discordapp.com/attachments/925648458101190667/925650118621925387/2021-12-29_15_22_29-PokemonTypeAdvantages.png)
+![](https://cdn.discordapp.com/attachments/925648458101190667/925650118798098443/2021-12-29_15_22_47-PokemonTypeAdvantages.png)
+
 ## Terms
 
 ```bash
